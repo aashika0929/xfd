@@ -1,0 +1,96 @@
+[03 10 2017 10:40:23.926] [INFO] - User - aashika - select - profile
+[03 10 2017 10:41:06.165] [INFO] - User - aashika - select - profile
+[03 10 2017 10:41:13.321] [INFO] - User - aashika - select - profile
+[03 10 2017 11:01:31.071] [INFO] - User - Demo User - select - profile
+[03 10 2017 11:01:35.423] [INFO] - User - Demo User - select - profile
+[03 10 2017 11:01:51.645] [INFO] -  - User - Demo User select - domain - Patient
+[03 10 2017 11:02:00.273] [INFO] - User - Demo User - select - userstory - Patient: Login
+[03 10 2017 11:02:46.549] [INFO] - User - Demo User - update - components to left pane
+[03 10 2017 11:20:08.203] [INFO] - User - Demo User - select - profile
+[03 10 2017 11:21:26.737] [INFO] - User - Demo User - select - profile
+[03 10 2017 11:22:03.265] [INFO] - User - Demo User - select - profile
+[03 10 2017 11:22:52.406] [INFO] - User - Demo User - select - profile
+[03 10 2017 11:23:03.352] [INFO] - User - Demo User - select - profile
+[03 10 2017 11:23:38.222] [INFO] - User - Demo User - select - profile
+[03 10 2017 11:23:42.779] [INFO] - User - Demo User - select - userDashBoard
+[03 10 2017 11:28:57.306] [INFO] - User - Demo User - select - userDashBoard
+[03 10 2017 11:29:07.188] [INFO] - User - Demo User - select - profile
+[03 10 2017 11:41:14.199] [INFO] - User - Demo User - select - profile
+[11 10 2017 10:44:12.585] [INFO] - User - Demo User - select - profile
+[11 10 2017 10:45:23.800] [INFO] - User - Threkashri - select - profile
+[11 10 2017 10:46:26.302] [INFO] - User - Demo User - select - profile
+[11 10 2017 10:51:26.264] [INFO] - User - Demo User - select - profile
+[11 10 2017 10:51:37.774] [INFO] - User - Demo User - select - profile
+[11 10 2017 10:51:49.110] [INFO] - User - Demo User - select - profile
+[11 10 2017 10:54:46.266] [INFO] - User - Demo User - select - profile
+[11 10 2017 10:55:34.546] [INFO] - User - Demo User - select - profile
+[11 10 2017 10:56:02.994] [INFO] - User - Demo User - select - profile
+[11 10 2017 10:56:08.545] [INFO] - User - Demo User - select - profile
+[11 10 2017 10:56:18.860] [INFO] -  - User - Demo User select - domain - Patient
+[11 10 2017 10:56:27.763] [INFO] -  - User - Demo User select - domain - Phlebotomist
+[11 10 2017 10:56:37.113] [INFO] -  - User - Demo User select - domain - Phlebotomist
+[11 10 2017 10:56:37.189] [INFO] - User - Demo User - select - userDashBoard
+[11 10 2017 10:58:37.220] [INFO] - User - Demo User - select - userDashBoard
+[11 10 2017 11:00:37.263] [INFO] - User - Demo User - select - userDashBoard
+[11 10 2017 11:17:15.222] [INFO] - User - Demo User - select - profile
+[11 10 2017 11:17:25.893] [INFO] - User - Demo User - select - profile
+[11 10 2017 11:17:31.340] [INFO] - User - Demo User - select - profile
+[11 10 2017 11:17:51.349] [INFO] -  - User - Demo User select - domain - Patient
+[11 10 2017 11:17:59.223] [INFO] -  - User - Demo User select - domain - Phlebotomist
+[11 10 2017 11:18:07.181] [INFO] -  - User - Demo User select - domain - Customer Care
+[11 10 2017 11:18:14.050] [INFO] -  - User - Demo User select - domain - Coordinator
+[11 10 2017 11:18:20.430] [INFO] - User - Demo User - select - userDashBoard
+[11 10 2017 11:19:41.077] [INFO] - User - Demo User - select - profile
+[11 10 2017 11:19:45.260] [INFO] - User - Demo User - select - profile
+[11 10 2017 11:20:20.463] [INFO] - User - Demo User - select - userDashBoard
+[11 10 2017 11:20:55.106] [INFO] -  - User - Demo User select - domain - Patient
+[11 10 2017 11:21:02.437] [INFO] - User - Demo User - select - userstory - Patient: Login
+[11 10 2017 11:21:12.828] [INFO] - User - Demo User - update - components to left pane
+[11 10 2017 11:21:36.702] [INFO] -  - User - Demo User select - domain - Patient
+[11 10 2017 11:21:40.673] [INFO] - User - Demo User - select - userDashBoard
+[11 10 2017 11:42:19.502] [INFO] - User - Arun - select - profile
+[11 10 2017 11:42:23.018] [INFO] - User - Arun - select - profile
+[11 10 2017 11:43:15.465] [INFO] - User - Arun - select - profile
+[11 10 2017 11:43:19.606] [INFO] - User - Arun - select - userDashBoard
+[11 10 2017 11:44:07.858] [INFO] -  - User - Arun select - domain - Patient
+[11 10 2017 11:44:23.538] [INFO] - User - Arun - select - userstory - Patient: Logout
+[11 10 2017 11:45:19.618] [INFO] - User - Arun - select - userDashBoard
+[11 10 2017 11:48:41.040] [INFO] - User - Arun - update - components to left pane
+[11 10 2017 11:48:48.649] [INFO] - User - Arun - compile - Patient: Logout - failure
+[11 10 2017 11:53:20.276] [INFO] - User - Arun - select - profile
+[11 10 2017 11:53:22.063] [INFO] - User - Arun - select - profile
+[11 10 2017 11:53:28.770] [INFO] - User - Arun - select - profile
+[11 10 2017 11:59:15.409] [INFO] - User - Demo User - select - profile
+[11 10 2017 11:59:19.372] [INFO] - User - Arun - select - profile
+[11 10 2017 11:59:19.711] [INFO] - User - Demo User - select - profile
+[11 10 2017 12:00:47.522] [INFO] - User - Arun - select - profile
+[11 10 2017 12:03:32.540] [INFO] - User - Arun - select - profile
+[11 10 2017 12:03:53.469] [INFO] - User - Arun - select - profile
+[11 10 2017 12:15:40.597] [INFO] - User - Demo User - select - profile
+[11 10 2017 12:15:57.474] [INFO] - User - Arun - select - profile
+[11 10 2017 12:16:00.804] [INFO] - User - Arun - select - profile
+[11 10 2017 12:19:38.920] [INFO] - User - Arun - select - profile
+[11 10 2017 12:19:49.345] [INFO] - User - Arun - select - profile
+[11 10 2017 12:20:08.899] [INFO] - User - Arun - select - profile
+[11 10 2017 12:20:16.725] [INFO] - User - Arun - select - profile
+[11 10 2017 12:25:54.869] [INFO] - User - Arun - select - profile
+[11 10 2017 12:26:06.348] [INFO] - User - Arun - select - profile
+[11 10 2017 12:26:49.476] [INFO] - User - Arun - select - profile
+[11 10 2017 12:28:09.794] [INFO] - User - Arun - select - profile
+[11 10 2017 12:28:22.883] [INFO] - User - Arun - select - profile
+[11 10 2017 12:36:34.969] [INFO] - User - Arun - select - profile
+[11 10 2017 12:36:47.622] [INFO] - User - Arun - select - profile
+[11 10 2017 12:37:58.889] [INFO] - User - Arun - select - profile
+[11 10 2017 12:38:17.804] [INFO] - User - Arun - select - profile
+[11 10 2017 12:40:15.060] [INFO] - User - Arun - select - profile
+[11 10 2017 12:56:53.914] [INFO] - User - Demo User - select - profile
+[11 10 2017 12:56:54.101] [INFO] - User - Arun - select - profile
+[11 10 2017 12:56:54.666] [INFO] - User - Arun - select - profile
+[11 10 2017 12:56:58.684] [INFO] -  - User - Demo User select - domain - Patient
+[11 10 2017 12:57:03.364] [INFO] - User - Demo User - select - userstory - Patient: Login
+[11 10 2017 12:57:28.762] [INFO] - User - Demo User - update - components to left pane
+[11 10 2017 13:00:15.810] [INFO] - User - Demo User - compile - Patient: Login - success
+[11 10 2017 13:00:15.810] [INFO] - - User - Demo User - CheckIn - Patient: Login - success
+[11 10 2017 14:01:24.641] [INFO] - User - Arun - select - profile
+[11 10 2017 14:10:26.325] [INFO] -  - User - Arun select - domain - Patient
+[11 10 2017 14:14:04.769] [INFO] -  - User - Arun select - domain - Patient
