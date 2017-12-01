@@ -9,7 +9,7 @@ var notify = (req, res) => {
   const authToken = '4e8b7fef7b48482c3247803486ce255d';
   const client = require('twilio')(accountSid, authToken);
   client.messages.create({
-    to: '+918884412773',
+    to: '+919766668470',
     from: '+14158914560',
     body: 'You Broke the Build',
   })
@@ -18,7 +18,7 @@ var notify = (req, res) => {
 
   console.log('voice call');
   client.calls.create({
-    to: '+918971257921',
+    to: '+919766668470',
     from: '+14158914560',
     url: "http://demo.twilio.com/docs/voice.xml"
   })
@@ -28,13 +28,13 @@ var notify = (req, res) => {
   var transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-    user: 'itzaashika@gmail.com',
-    pass: 'Saaju@29'
+    user: 'wiprodigital.adapt@gmail.com',
+    pass: 'indian@123'
   }
 });
 var mailOptions = {
-  from: 'itzaashika@gmail.com',
-  to: 'erkeerthana26@gmail.com',
+  from: 'wiprodigital.adapt@gmail.com',
+  to: 'madhumadhanan@gmail.com',
   subject: 'Sending Email from XFD',
   text: 'You broke the build'
 };
@@ -53,7 +53,7 @@ slack.setWebhook(webhookUri);
 slack.webhook({
 channel: "#general",
 username: "Devops",
-text: "This is posted to #general and comes from a bot named webhookbot."
+text: "Xfd-You broke the build"
 }, function(err, response) {
 if (err) {
   console.log('error', err);
